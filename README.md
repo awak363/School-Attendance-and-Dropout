@@ -2,6 +2,12 @@ Project Overview: School Attendance and Dropout Patterns in Kakuma
 
 
 
+
+
+![images](images/nairobistockimages.jpg
+
+
+
 ![images](images/jubatown.jpg)
 
 
