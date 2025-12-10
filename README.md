@@ -6,7 +6,7 @@ The primary objectives of the study include:
 
 
 
-![images](images/kakumarefugee.jpeg)
+![images](images/kakumarefugee.png)
 
 
 
