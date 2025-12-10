@@ -1,5 +1,14 @@
 Project Overview: School Attendance and Dropout Patterns in Kakuma
 
+
+
+![images](images/jubatown.jpg)
+
+
+
+
+
+
 This project aims to analyze and understand the patterns of school attendance and dropout rates within the Kakuma Refugee Camp. Kakuma, located in Kenya, hosts a diverse population of refugees, primarily from South Sudan, Somalia, Ethiopia, and other countries, facing unique educational challenges.
 
 The primary objectives of the study include:
