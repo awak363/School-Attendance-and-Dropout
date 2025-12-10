@@ -4,6 +4,12 @@ This project aims to analyze and understand the patterns of school attendance an
 
 The primary objectives of the study include:
 
+
+
+![images](images/kakumarefugee.jpeg)
+
+
+
     Assessing Attendance Trends: Monitoring daily, weekly, and seasonal variations in school attendance among different age groups, genders, and nationalities.
     Identifying Dropout Causes: Investigating factors contributing to student dropout, such as economic hardship, language barriers, safety concerns, and limited resources.
     Analyzing Demographic Patterns: Examining how attendance and dropout rates vary based on demographic factors like age, gender, and ethnicity.
